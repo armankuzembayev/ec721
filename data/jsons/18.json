@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/18.png", 
+    "name": "Stitch #18",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Suspicious"
+        },
+        {
+            "trait_type": "Power",
+            "value": 5
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 6
+        }
+    ]
+  }

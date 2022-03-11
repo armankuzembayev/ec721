@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/7.png", 
+    "name": "Stitch #7",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Enamored"
+        },
+        {
+            "trait_type": "Power",
+            "value": 3
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 3
+        }
+    ]
+  }

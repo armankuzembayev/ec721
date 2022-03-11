@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/21.png", 
+    "name": "Stitch #21",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Running"
+        },
+        {
+            "trait_type": "Power",
+            "value": 6
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 9
+        }
+    ]
+  }

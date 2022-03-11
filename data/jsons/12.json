@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/12.png", 
+    "name": "Stitch #12",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Evil"
+        },
+        {
+            "trait_type": "Power",
+            "value": 7
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 6
+        }
+    ]
+  }

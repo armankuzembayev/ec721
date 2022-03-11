@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/4.png", 
+    "name": "Stitch #4",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "Power",
+            "value": 2
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 7
+        }
+    ]
+  }

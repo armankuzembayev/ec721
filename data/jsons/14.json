@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/14.png", 
+    "name": "Stitch #14",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Angry"
+        },
+        {
+            "trait_type": "Power",
+            "value": 10
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 10
+        }
+    ]
+  }

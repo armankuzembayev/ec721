@@ -1,0 +1,19 @@
+{
+    "description": "Friendly Stitch", 
+    "image": "ipfs://QmSquEQGhLWHChFoH3bqY7QQn2Ly4sXdnSD5v9fsPf9wac/30.png", 
+    "name": "Stitch #30",
+    "attributes": [
+        {
+            "trait_type": "Mood",
+            "value": "Dissatisfied"
+        },
+        {
+            "trait_type": "Power",
+            "value": 3
+        },
+        {
+            "trait_type": "Stamina",
+            "value": 4
+        }
+    ]
+  }
