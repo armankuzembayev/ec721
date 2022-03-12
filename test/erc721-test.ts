@@ -3,7 +3,7 @@ const { ethers } = require("hardhat");
 
 import * as Configs from "../config"
 
-describe("ERC20", function ()  {
+describe("ERC721", function ()  {
 
     let Token: any;
     let hardhatToken: any;
@@ -93,5 +93,4 @@ describe("ERC20", function ()  {
             expect(await testToken.baseURI()).to.be.equal(baseUri);
         });    
     });
-
 });

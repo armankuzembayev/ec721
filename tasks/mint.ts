@@ -8,7 +8,6 @@ task("mint", "Mint NFT")
     .addParam("amount", "How much")
     .setAction(async  (taskArgs, { ethers }) => {
 
-    // const [signer] = await ethers.getSigners();
     const contract = await ethers.getContractAt("Erc721", taskArgs.token);
     
     await contract.mint(taskArgs.to, taskArgs.amount);
